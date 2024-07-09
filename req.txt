@@ -1,0 +1,14 @@
+# this is the requarment file
+
+
+selenium
+beautifulsoup4
+pandas
+numpy
+
+ttkbootstrap
+
+# LLM module for scrapeing
+scrapegraphai
+nest_asyncio
+playwright
