@@ -36,6 +36,3 @@ In this project, I implemented a web scraper using Python, BeautifulSoup, and Se
 
 **Outcome:**
 The project successfully scraped and compiled a detailed dataset of business listings, including enriched data from business websites. This dataset can be utilized for various applications, such as fraud detection models, market analysis, and business intelligence.
-
-**Portfolio Showcase:**
-This project demonstrates my ability to build and deploy advanced web scraping solutions, integrate multiple Python libraries for data extraction, and address common data science challenges such as class imbalance. It showcases my skills in handling real-world data extraction tasks, making it a valuable addition to my freelancing portfolio on Upwork and Freelancer.
